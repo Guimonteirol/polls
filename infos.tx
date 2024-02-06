@@ -1,0 +1,14 @@
+# COMANDOS
+
+npm init -y -> Gera o arquivo packege.json
+npm i typescript @types/node -D -> integra o typescript ao Node.js
+npx tsc --init -> Cria um arquivo tsconfig.json 
+
+tsconfig.json -> Precisa ser configurado, algumas variáveis.
+Dentro do repositório node target mapping da Microsoft, eles mantém a atualizado as configurações
+para atuar com o typescript dentro do Node.js
+
+
+npm i tsx -> Converte meu código TS -> JS de maneira mais otimizada
+
+npm i fastify
