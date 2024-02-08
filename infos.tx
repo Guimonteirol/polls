@@ -12,3 +12,9 @@ para atuar com o typescript dentro do Node.js
 npm i tsx -> Converte meu código TS -> JS de maneira mais otimizada
 
 npm i fastify
+
+npm i -D prisma
+npx pisma init 
+
+image -> Uma receita criada para rodar o postgres e configura-lo em um ambinete linux zerado
+roda em cima do Unix 
